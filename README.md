@@ -2,7 +2,7 @@
 
 Demo: https://elmer.dev/projects/oop-mvc/
 
-Uses [Bootstrap 4.5](https://getbootstrap.com/) for the CSS framework.
+Uses [Bootstrap 4](https://getbootstrap.com/) for the CSS framework.
 
 ## Features
 * Adding, listing, updating, deleting entries
