@@ -12,7 +12,7 @@ Demo: https://elmer.dev/projects/oop-mvc/
 
 Modify the *config.php* file and add your database credentials.
 
-## Database tables
+### Database tables
 
 Create two tables in phpmyadmin called *shares* and *users* with the fields listed below:
 
