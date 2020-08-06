@@ -1,4 +1,4 @@
-# Simple MVC framwork using Object-Oriented Programming PHP
+# Simple MVC framework using Object-Oriented Programming PHP
 
 Demo: https://elmer.dev/projects/oop-mvc/
 
