@@ -1,6 +1,6 @@
 # Simple MVC framework using Object-Oriented Programming PHP
 
-Demo: https://elmer.dev/projects/oop-mvc/
+Demo: https://projects.elmer.dev/oop-mvc/
 
 Uses [Bootstrap 4](https://getbootstrap.com/) for the CSS framework.
 
